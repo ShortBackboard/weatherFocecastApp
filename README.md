@@ -1,5 +1,5 @@
 # weatherFocecastApp
-The project was learned from bilibili.com . And the user name is  大轮明王讲Qt.
+The project was learned from bilibili.com .
 
 The project accesses the http server through the http interface to obtain weather data from different cities, and then parses the returned. json file content for data display and switching between different cities.
 
